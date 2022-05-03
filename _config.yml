@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Portfolio"
-  avatar           : "profile.png"
+  avatar           : "Bjoern.Schembera_016_cropped_smaller.jpg"
   bio              : "Computer Scientist researching Distributed and Information Systems, with a focus on Dark Data, Metadata, Semantics and Ontologies in its manifold technical and philosophical aspects."
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
@@ -113,7 +113,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/Bjoern_Schembera"
   youtube          :
   wikipedia        :
 

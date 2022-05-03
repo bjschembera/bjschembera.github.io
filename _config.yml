@@ -80,13 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Portfolio"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Scientist researching Distributed and Information Systems, with a focus on Dark Data, Metadata, Semantics and Ontologies in its manifold technical and philosophical aspects."
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yVJuAkIAAAAJ&hl=de"
+  email            : "bjoern.schembera@gmail.com"
   email            : "bjoern.schembera@mathematik.uni-stuttgart.de"
   researchgate     : "https://www.researchgate.net/profile/Bjoern-Schembera"
   uri              : "https://www.ians.uni-stuttgart.de/institute/team/Schembera-00001/"
@@ -102,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://de.linkedin.com/in/bj%C3%B6rn-schembera-41b100a4"
+  linkedin         : "bj%C3%B6rn-schembera-41b100a4"
   orcid            : "https://orcid.org/0000-0003-2860-6621"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

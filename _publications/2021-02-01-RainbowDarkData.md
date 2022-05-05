@@ -1,7 +1,7 @@
 ---
 title: "Like a rainbow in the dark: metadata annotation for HPC applications in the age of dark data"
 collection: publications
-permalink: /publication/2021-02-01-RainbowDarkData.md
+permalink: /publication/2021-02-01-RainbowDarkData
 excerpt: 'This paper is about the deluge of dark data and how automated metadata extraction is key to diminish those'
 date: 2021-02-01
 venue: 'The Journal of Supercomputing'
